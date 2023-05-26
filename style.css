@@ -169,7 +169,7 @@ main{
 }
 
 
-h2{
+.botonGuardar{
     position: absolute;
     bottom: 0;
     color: antiquewhite;
@@ -342,7 +342,7 @@ h2{
 
 
 /* RESPONSIVE*/
-/* 
+
 @media (max-width:768px){
 
     #content{
@@ -369,7 +369,7 @@ h2{
    
     }
 
-}  */
+} 
 
 
 
